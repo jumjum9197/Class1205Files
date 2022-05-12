@@ -1,0 +1,16 @@
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\bin\Debug\net5.0\Class1205Files.exe
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\bin\Debug\net5.0\Class1205Files.deps.json
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\bin\Debug\net5.0\Class1205Files.runtimeconfig.json
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\bin\Debug\net5.0\Class1205Files.runtimeconfig.dev.json
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\bin\Debug\net5.0\Class1205Files.dll
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\bin\Debug\net5.0\Class1205Files.pdb
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\obj\Debug\net5.0\Class1205Files.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\obj\Debug\net5.0\Class1205Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\obj\Debug\net5.0\Class1205Files.AssemblyInfoInputs.cache
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\obj\Debug\net5.0\Class1205Files.AssemblyInfo.cs
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\obj\Debug\net5.0\Class1205Files.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\obj\Debug\net5.0\Class1205Files.dll
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\obj\Debug\net5.0\refint\Class1205Files.dll
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\obj\Debug\net5.0\Class1205Files.pdb
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\obj\Debug\net5.0\Class1205Files.genruntimeconfig.cache
+C:\Users\MY PC\source\repos\Class1205Files\Class1205Files\obj\Debug\net5.0\ref\Class1205Files.dll
